@@ -1,0 +1,97 @@
+#EXTM3U x-tvg-url=",https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epg.programadorx.cl/mdiaz/gratis.xml" tv-test="TV Argentina.m3u"
+
+#EXTINF:-1 tvg-id="ArtvGuide.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", INICIO - ARtv
+https://github.com/dvds115/DowloadIP/raw/main/ARtv/main_portal.m3u8
+#EXTINF:-1 tvg-id="128dtv.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png", Encuentro
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43339
+#EXTINF:-1 tvg-id="Canal.Rural.Satelital.(RURAL).ar" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/24-CanalRural.png", Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-id="726dtv.ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png", Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png", Canal 26
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43343
+#EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png" user-agent="iPhone", C5N
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43344
+#EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png", TV Pública
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/313950
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png", Crónica HD
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/123877
+#EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/10-TN.png", TN
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43345
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/12-LN%2B.png", La Nación +
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/11-a24.png" user-agent="iPhone", A24
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png", El Trece
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43314
+#EXTINF:-1 tvg-id="Canal.Nueve.(CNL9).ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png", El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43319
+#EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/13-Telefe.png", Telefé
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png", Canal 12
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/SGKGxt7.png" user-agent="iPhone", Canal Luz
+#EXTVLCOPT:http-user-agent=iPhone
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="000" tvg-name="Inter-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Inter_Icon.png", INTERNACIONALES - ARtv
+https://github.com/dvds115/DowloadIP/raw/main/ARtv/inter.m3u8
+#EXTINF:-1 tvg-id="canal-9-snt.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
+http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/73080
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/135-Telefuturo.png", Telefuturo
+http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/73092
+#EXTINF:-1 tvg-id="DW.Deutsch+.(DW.D+).ar" tvg-name="DW Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/26-DWes.png", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="Euronews Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/27-EuronewsEs.png", Euronews Español
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="France 24 Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/28-France24es.png", France 24 Español
+http://45.71.252.67:8000/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/110-CNNEspa%C3%B1ol.png", CNN en Español
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/312871
+#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).ar" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png", Telemundo Internacional
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/312694
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Canal de las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png", Canal de las Estrellas
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="telesur.ar" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/128-SBT.png", SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/index.m3u8
+
+#EXTINF:-1 tvg-id="000" tvg-name="Depor-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Depor_Icon.png", DEPORTES - ARtv
+https://github.com/dvds115/DowloadIP/raw/main/ARtv/depor.m3u8
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34660
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34663
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png", TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-id="1605dtv.ar" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/65-FoxSports23.png", FOX Sports
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34640
+#EXTINF:-1 tvg-id="606dtv.ar" tvg-name="FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports223.png", FOX Sports 2
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34643
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/64-ESPNPremium.png", ESPN Premium
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/123874
+#EXTINF:-1 tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/63-TNTSports.png", TNT Sports
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34683
+#EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png", Garage TV
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43357
+#EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png", Golf Channel
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34696
+#EXTINF:-1 tvg-id="DeporTV.LD.(DEPORTV).ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/34740
+
+#EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/75-HBO.png", HBO
+http://45.160.15.1:8111/play/a0ot
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/76-HBO2.png", HBO 2
+http://45.160.15.1:8111/play/a0ox
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/77-HBO%2B.png", HBO Plus
+http://45.238.54.253:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/78-HBOFamily.png", HBO Family
+http://45.160.15.1:8111/play/a0ou
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/137-HBOXtreme.png", HBO Xtreme
+http://45.160.15.1:8111/play/a0ow
