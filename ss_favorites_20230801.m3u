@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2409" name="El Trece" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png", El Trece
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43314
+#EXTINF:0 type="stream" channelId="-1" name="AR | Canal 13 de Buenos Aires" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png", 784 | Canal 13 de Buenos Aires || ARGENTINA
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
+#EXTINF:0 type="stream" channelId="2409", Eltrece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" country="AR", CANAL 13  33.1
+https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="4035", trece
+http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43314.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHACO" logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg", 9LINK CHACO
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" country="AR", TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 type="stream" channelId="4651", El Nueve (1080p)
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" country="AR", CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+#EXTINF:0 type="stream" channelId="2546", América TV (720p)
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" country="AR", AMERICA HD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" country="AR", TV PUBLICA
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/NET_TV.jpg" country="AR", NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2844" group="NOTICIAS NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg", TODO NOTICIAS
+https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:0 type="stream" channelId="1929", C5N (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0 type="stream" channelId="2726", Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="USA | Space" group="PELICULAS Y SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png", 71 | Space
+http://45.160.15.130:2909/play/119
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", TERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3802" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg", TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", TELEFÉ CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" name="AR | Tierra Mia TV" group="MUSICA Y REALITIES" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp", 251 | Tierra Mía TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2694", El Doce (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://w7.pngwing.com/pngs/751/856/png-transparent-three-black-cats-illustration-black-cat-kitten-halloween-witch-cat-cat-like-mammal-carnivoran-orange-thumbnail.png", LOS 3 GATOS SPORTS
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://w7.pngwing.com/pngs/751/856/png-transparent-three-black-cats-illustration-black-cat-kitten-halloween-witch-cat-cat-like-mammal-carnivoran-orange-thumbnail.png", LOS 3 GATOS SPORTS 2
+https://stitcher.pluto.tv/stitch/hls/channel/63c6e37e636b7e0007ccb635/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
+#EXTINF:0 type="stream" channelId="287" group="EVENTOS DEPORTIVOS" logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg", CLARO SPORTS
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png", DIRECTV SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png", DIRECTV SPORTS 2
+http://190.83.60.34:1414/play/a06c
+#EXTINF:0 type="stream" channelId="-1" group="EVENTOS DEPORTIVOS" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png", DIRECTV SPORTS +
+http://190.83.60.34:1414/play/a06b
+#EXTINF:0 type="stream" channelId="1328" group="EVENTOS DEPORTIVOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png", FOX SPORTS
+http://181.115.238.188:6100/play/a09v
+#EXTINF:0 type="stream" channelId="57" name="DISCOVERY CHANNEL" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/17037
+#EXTINF:0 type="stream" channelId="2841" name="DISCOVERY CIVILIZATION" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY CIVILIZATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/141763
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY THEATER" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY THEATER
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42168
+#EXTINF:0 type="stream" channelId="2840" name="DISCOVERY TURBO" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY TURBO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42109
+#EXTINF:0 type="stream" channelId="58" name="DISCOVERY SCIENCE" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY SCIENCE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42108
+#EXTINF:0 type="stream" channelId="2620" name="DISCOVERY HOME & HEALTH" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY HOME & HEALTH
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42106
+#EXTINF:0 type="stream" channelId="59" name="DISCOVERY INVESTIGATION" group="➤ ZONA LATINO ★ V I P ★" country="la", DISCOVERY INVESTIGATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42105
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN 2 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1264
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN 2 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1267
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN 3 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1265
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN 4 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/105410
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN Deportes HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1269
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN Plus HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1270
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN" shift="2", Deportes HD | ESPN Premium HD (2)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1281
+#EXTINF:0 type="stream" channelId="-1" name="USA: NBA TV  HD" group="➤ ZONA NBA" logo="http://tvgolatino.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" country="us", NBA TV  HD
+http://uniontv.info:8080/belmrj/0944722244/265847
+#EXTINF:0 type="stream" channelId="4664" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg", KZO
+https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
+#EXTINF:0 type="stream" channelId="2546" name="America TV" logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/43319
+#EXTINF:0 type="stream" channelId="-1" name="USA | ESPN" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png", 232 | ESPN
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=932262891&_cdn_timestamp=1688435378&_cdn_token=0d0321b1e375543b3c057375a1f436b8b7864488
+#EXTINF:0 type="stream" channelId="-1" name="USA | ESPN 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png", 233 | ESPN 2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=932264035&_cdn_timestamp=1688435390&_cdn_token=61c4b175fe056b8d4780aeb57dd3774e58767f7b
+#EXTINF:0 type="stream" channelId="-1" name="USA | ESPN 3" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png", 234 | ESPN 3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=932267667&_cdn_timestamp=1688435439&_cdn_token=00488f8da4c6899cb7a96b88482ba9a3b5057469
+#EXTINF:0 type="stream" channelId="-1" name="USA | ESPN 4" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png", 235 | ESPN 4
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=932269059&_cdn_timestamp=1688435451&_cdn_token=352c3ffbc3a6c7dbdf4587a018f7f45771602d0f
+#EXTINF:0 type="stream" channelId="-1" name="USA | ESPN Extra" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png", 236 | ESPN Extra
+http://190.217.117.194:8000/play/a02y/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ECUA| DIRECTV SPORTS 2 HD*" group="➤ ZONA ECUADOR DEPORTES ⚽" logo="http://iptvglobal.site:25461/images/90774583ba793531640321a5514beb55.png", ECUA| DIRECTV SPORTS 2 HD*
+http://playhispano.org:8080/Casjahj/Jhajsac/119648
+#EXTINF:0 type="stream" channelId="-1" group="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽", DIRECTO : ESPN DEPORTES
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/78749.ts
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="http://castlempire.site:8080/images/6c87c3afd65d9899fa6d6a50ac79ebfc.png", AR | El trece HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/184387
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/0475d08f5f5013ddb1d3a4e2c4258d52.png", Premium | Discovery Channel (Lat) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169839
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/0475d08f5f5013ddb1d3a4e2c4258d52.png", Premium | Discovery Channel (Mx) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169838
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/4e03e3ebb339764d13a401016efb7594.png", Premium | Discovery H&H (MX) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169842
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/b8af8a92127e02153f27c6d87b9e3a3f.png", Premium | Discovery Theater HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169847
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/cfb0e28ba7e6318e78fdfd2d554c56b1.png", Premium | El Gourmet (Lat) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169878
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/cfb0e28ba7e6318e78fdfd2d554c56b1.png", Premium | El Gourmet (MX) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169877
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG", Premium | H2 HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169857
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png", Premium | History Channel (Lat) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169856
+#EXTINF:0 type="stream" channelId="-1" group="*ENTRETENIMIENTO*" logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png", Premium | History Channel (MX) HD
+http://castlempire.site:8080/UserTest5Octubre_00t/p3QcBkFxLzkZ/169855
+#EXTINF:0 type="stream" channelId="2409", el trece
+https://nosequewea.tk/dtvc?get=aHR0cHM6Ly8xMDk1LWFiYy5kdHZvdHQuY29tL2Rhc2hfbGl2ZV8xMDk1L21hbmlmZXN0Lm1wZA==&key=Mjc5NjVhNWU0NzUxNWM1MmFmOTcwZGVmODIzMDE0MmM=&key2=YjJmMTYzYjkzMDI4YTRjMzI1YzBkOGY3ZjFiMjllMjU=
+#EXTINF:0 type="stream" channelId="-1" group="➤ ZONA ESPN", Deportes HD | ESPN 1 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1266
+#EXTINF:0 type="stream" channelId="2546" name="America TV" group="Argentina" logo="http://s3.i3ns.net/portal/picon/2020-07/b75ee58326fe152aa93a4bddf26c78e5.png" country="ar", America TV
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49245
+#EXTINF:0 type="stream" channelId="2409" name="El Trece" group="Canales TDA" logo="http://www.radiosargentina.com.ar/png/VI--LS85.png", LS85 El Trece
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43314
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/zpJdUVC.png", Canal 10 Rio Negro (720p) [Not 24/7]
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" country="AR", CANAL 13  33.1
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png", Canal 10 Rio Negro | AR
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", Continental
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0001
+#EXTINF:0 type="stream" channelId="-1", Maxima TV
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+#EXTINF:0 type="stream" channelId="-1", mas respeto que soy tu marde
+http://tuvideo.tv/cloud_2/Mas.respeto.que.soy.tu.madre.2022.720.lat.mp4
+#EXTINF:0 type="favorites" channelId="-1" group="NACIONALES" logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" country="AR", CANAL 13  33.1
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
+#EXTINF:0 type="favorites" channelId="-1" group="➤ ZONA 4K", El Gourmet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156146
+#EXTINF:0 type="favorites" channelId="-1" group="➤ ZONA 4K", TyC Sports 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156189
+#EXTINF:0 type="favorites" channelId="-1" group="➤ ZONA 4K", Animal Planet 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156121
+#EXTINF:0 type="favorites" channelId="-1" group="➤ ZONA 4K", Discovery 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156131
+#EXTINF:0 type="favorites" channelId="-1" group="➤ ZONA 4K", Discovery H&H 4K
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156130
