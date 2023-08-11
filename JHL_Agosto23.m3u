@@ -165,8 +165,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43312
-
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Canales TDA",LS85 El Trece
 http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/43314
