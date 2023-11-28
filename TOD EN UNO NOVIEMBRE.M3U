@@ -56,19 +56,19 @@ https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Dip
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-#EXTINF:-1 tvg-chno="109" tvg-id="ElNueve.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/small.elnueve.png.c2b3f1055a574f0d680fbbab0d05e917.png" tvg-group="Nacionales", Elnueve
+#EXTINF:-1 tvg-chno="109" tvg-id="ElNueve.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/small.elnueve.png.c2b3f1055a574f0d680fbbab0d05e917.png" tvg-group="Nacionales", Elnueve CH
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 tvg-chno="102" tvg-id="AmericaTV.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.2070876048_America202022.png.a5b0848ddd39af1ba09871506ec9226a.png" tvg-group="Nacionales", America
+#EXTINF:-1 tvg-chno="102" tvg-id="AmericaTV.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.2070876048_America202022.png.a5b0848ddd39af1ba09871506ec9226a.png" tvg-group="Nacionales", America CH
 https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-chno="111" tvg-id="TelefeHD.ar" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
+#EXTINF:-1 tvg-chno="111" tvg-id="TelefeHD.ar" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe CH
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -79,7 +79,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mp
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1 tvg-chno="113" tvg-id="ElTrece.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Nacionales", Eltrece
+#EXTINF:-1 tvg-chno="113" tvg-id="ElTrece.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Nacionales", Eltrece CH
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 
@@ -1102,27 +1102,27 @@ TERMINA CHUBUT COMIENZA CUTRAL-CO
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="726dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
+#EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N CC
 https://comodoro.cdn.rcs.net.ar/mnp/c5n/output.mpd
-#EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="Nacionales", TV Pública
+#EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="Nacionales", TV Pública CC
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
-#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Crónica HD
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Crónica HD CC
 https://comodoro.cdn.rcs.net.ar/mnp/cronica/output.mpd
-#EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Nacionales", Canal 26
+#EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Nacionales", Canal 26 CC
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m3u8
-#EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales", A24
+#EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales", A24 CC
 https://comodoro.cdn.rcs.net.ar/mnp/a24/output.mpd
-#EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
+#EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN CC
 https://comodoro.cdn.rcs.net.ar/mnp/tn/output.mpd
-#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación + CC
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefé
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefé CC
 https://comodoro.cdn.rcs.net.ar/mnp/telefe/output.mpd
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece CC
 https://comodoro.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve CC
 https://comodoro.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", América
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", América CC
 https://comodoro.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-DW.png" tvg-language="Spanish" group-title="Internacionales", DW Español
