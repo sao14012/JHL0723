@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="BARFHD"
+http://rasaiptv.com:8080/live/nhZ6n2VY/5m8EnS7Vhyge/110220.ts0#EXTINF:0,DAZN F1
+http://espip.net:8080/T644013196/yPSjpxnGMz/567514
+#EXTINF:0,DAZN F1 SD
+http://espip.net:8080/T644013196/yPSjpxnGMz/565597
+#EXTINF:0,DAZN F1 HD
+http://espip.net:8080/T644013196/yPSjpxnGMz/507238
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ES: Movistar DAZN F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522112.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=TYKonw6ivi&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
+http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
+http://boxdigital.xyz:8080/live/Jona/SgThDfmWUTdW/265644.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",movistar f1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=kVrC2r61J2
