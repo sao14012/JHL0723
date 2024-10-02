@@ -6598,6 +6598,18 @@ http://158.69.52.98:25461/ANDRES17/PEREZ17/151
 
 
 
+#EXTINF:-1 tvg-id="CL - Discovery Channel" tvg-name="Discovery Channel FHD (CL*)" tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="Culturales",Discovery Channel FHD (CL*)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313142
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel HD (MX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302627
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel SD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel SD (LAT)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34808
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel FHD (LAT)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34810
+
+
+
+
 
 ####################################################################################
 ################################################################################
