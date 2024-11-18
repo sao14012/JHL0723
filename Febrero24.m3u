@@ -1146,7 +1146,7 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-#EXTINF:-1,tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL",ESPN PREMIUM OP2 
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL",ESPN PREMIUM OP2 
 https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 
@@ -1155,7 +1155,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1,tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL",TNT SPORTS OP2 
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL",TNT SPORTS OP2 
 https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
