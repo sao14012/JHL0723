@@ -6104,8 +6104,7 @@ AGREGADOS
 
 el trece
 
-
-#EXTINF:-1 group-title="NACIONALES", El Trece IPTV
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", El TRECE IPTV
 http://45.5.151.151:8000/play/a0cp/index.m3u8
 
 
